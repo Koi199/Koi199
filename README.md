@@ -1,5 +1,4 @@
 Hello, I am Kyle aka Koi199
-I uploaded my most successful 3D models and pieces of code on here. 
 I am currently messing around with data visualization in Python and Arduino microcontrollers. 
 Let me know if you want to collaborate on anything --> kyleahvon@gmail.com
 
